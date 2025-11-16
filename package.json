@@ -1,6 +1,7 @@
 {
   "name": "tender",
   "version": "0.1.0",
+  "homepage": "https://kirillvasilev.github.io/tender/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
